@@ -1,6 +1,6 @@
-# DOT API
+## DOT API
 
-# Tech Stack & Global Requisites
+## Tech Stack & Global Requisites
 
 * Node JS (>= 18.12.1)
 * Nest JS - Framework
@@ -8,7 +8,7 @@
 * MySQL - Database
 * Postman - Documentation + Testing
 
-# Install, Configure & Run
+## Install, Configure & Run
 
 Below mentioned are the steps to install, configure & run in your platform/distributions.
 
@@ -26,9 +26,9 @@ npm install;
 npm run dev;
 ```
 
-# Links
+## Links
 - [API Documentation](https://documenter.getpostman.com/view/24707420/2s9YJXaRGB)
 
-# Author
+## Author
 
 👤 **Muhammad Fikri Haikal**
