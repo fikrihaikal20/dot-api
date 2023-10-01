@@ -37,7 +37,7 @@ npm run start:dev;
 ```
 
 ## Links
-- [API Documentation](https://documenter.getpostman.com/view/24707420/2s9YJXaRGB)
+- [API Documentation](https://documenter.getpostman.com/view/24707420/2s9YJaZQ3K)
 
 ## Author
 
