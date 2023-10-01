@@ -33,7 +33,7 @@ cd dot-api;
 npm install;
 
 # Run the app
-npm run dev;
+npm run start:dev;
 ```
 
 ## Links
